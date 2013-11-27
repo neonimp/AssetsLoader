@@ -1,0 +1,54 @@
+*{
+	background-color		: #373737;
+}
+.intro{
+	background-color: #373737;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 9px 9px 9px 9px;
+	width: 950px;
+	height: 600px;
+	color: #DCDCDC;
+}
+.intro a:link{
+	color: #DCDCDC;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 9px 9px 9px 9px;
+	border-style: solid;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: transparent;
+	margin-top: 200px;
+	text-transform: uppercase;
+}
+.intro a:hover{
+	color: #DCDCDC;
+	border-color: #FF9900;
+}
+.intro a:visited{
+	color: #DCDCDC;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 9px 9px 9px 9px;
+	border-style: solid;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: transparent;
+	margin-top: 200px;
+}
+.intro a:active{
+	color: #FF9900;
+}
+.dlholder{
+	text-align: center;
+}
+.locksec{
+	color: #b6ff00;
+}
+.lockunsec{
+	color: #f00;
+}
